@@ -81,7 +81,6 @@ if __name__ == "__main__":
         wishMe()
         while True:
             query = takecommand()
-
             # Execute commands
             if "wikipedia" in query:
                 speak("Searching Wikipedia...")
