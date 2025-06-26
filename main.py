@@ -6,7 +6,6 @@ import webbrowser
 import smtplib
 import os
 import requests
-
 # Initialize the engine
 engine = pyttsx3.init("sapi5")
 voices = engine.getProperty("voices")
