@@ -4,9 +4,7 @@
 
 🧠 Description:
 ARIK is a voice-enabled AI assistant developed using Python. It performs daily automation tasks such as:
-
 Opening websites (Google, YouTube, etc.)
-
 Telling time and date
 
 Playing music from the system
