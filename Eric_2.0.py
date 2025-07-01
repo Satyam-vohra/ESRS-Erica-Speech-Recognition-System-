@@ -4,6 +4,7 @@ import webbrowser, os, smtplib, requests, cv2, mediapipe as mp
 from multiprocessing import Process
 app = Flask(__name__)
 
+
 # =============== Voice Engine ==================
 engine = pyttsx3.init("sapi5")
 engine.setProperty("voice", engine.getProperty("voices")[0].id)
