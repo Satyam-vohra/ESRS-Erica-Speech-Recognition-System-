@@ -2,7 +2,6 @@ from flask import Flask, render_template, request, jsonify
 import datetime, pyttsx3, wikipedia, speech_recognition as sr
 import webbrowser, os, smtplib, requests, cv2, mediapipe as mp
 from multiprocessing import Process
-
 app = Flask(__name__)
 
 # =============== Voice Engine ==================
