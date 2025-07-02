@@ -3,7 +3,6 @@
 🛠️ Tech Stack: Python, SpeechRecognition, pyttsx3, Tkinter, Webbrowser, OS module
 
 🧠 Description:
-
 ARIK is a voice-enabled AI assistant developed using Python. It performs daily automation tasks such as:
 Opening websites (Google, YouTube, etc.)
 Telling time and date
