@@ -36,7 +36,6 @@ def take_command():
         except:
             speak("Please say again.")
             return "none"
-
 # =============== Send Email ==================
 def send_email(to, content):
     try:
